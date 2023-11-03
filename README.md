@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/priyanshusharma80/priyanshusharma80/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/priyanshusharma80/priyanshusharma80/blob/output/snake.gif)
 
 ###
 
