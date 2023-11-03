@@ -1,7 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/priyanshusharma80/priyanshusharma80/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif"  />
 </div>
