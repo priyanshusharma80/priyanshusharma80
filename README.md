@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NodeJs & Blockchain<br>🎯 2023 Goals: to get over MERN <br>🎲 Fun fact: I only code to get Placed :)</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning NodeJs & Blockchain<br>🎯 2023 Goals: to get over MERN <br>🎲 Fun fact: I only code to get Placed :)</p>
 
 ###
 
