@@ -1,3 +1,11 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Priyanshu Sharma and I'm a 2nd Year MCA student @NIT Raipur</p>
+
+###
+
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif"  />
 </div>
@@ -11,13 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusharma80&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Priyanshu Sharma and I'm a 2nd Year MCA student @NIT Raipur</p>
-
-###
 
 <h2 align="left">About me</h2>
 
