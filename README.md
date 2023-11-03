@@ -2,6 +2,8 @@
   <img  src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif"  />
 </div>
 
+[![An image of @priyanshusharma80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshusharma80)](https://holopin.io/@priyanshusharma80)
+
 ###
 
 <div align="center">
