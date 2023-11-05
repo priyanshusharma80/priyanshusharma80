@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Priyanshu Sharma and I'm a 2nd Year MCA student @NIT Raipur</p>
+<h4 align="left">My name is Priyanshu Sharma and I'm a 2nd Year MCA student @NIT Raipur</h4>
 
 ###
 
