@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Priyanshu Sharma and I'm a 2nd Year MCA student @NIT Raipur</h4>
+<h4 align="left">My name is Priyanshu Sharma and I'm a Front End Web Developer, Freelance Social Media Manager and a 2nd Year MCA student @NIT Raipur</h4>
 
 ###
 
