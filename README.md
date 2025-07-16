@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Priyanshu Sharma currently a 2nd Year MCA student @NIT Raipur and been summer intern'24 @GeeksforGeeks</h4>
+<h4 align="left">My name is Priyanshu Sharma currently working as an Engineer Intern @Hyperstate Technologies</h4>
 
 ###
 
