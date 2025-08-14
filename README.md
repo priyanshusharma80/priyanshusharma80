@@ -1,8 +1,4 @@
-<h1 align="left">Hey👋 Wassup?</h1>
-
-###
-
-<h4 align="left">My name is Priyanshu Sharma currently working as an Engineer Intern @Hyperstate Technologies</h4>
+<h1 align="left">Hey👋 Wassup?, I'm Priyanshu</h1>
 
 ###
 
