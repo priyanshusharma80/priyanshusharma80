@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋 Wassup?, I'm Priyanshu, an SDE @Iotric & Head of Growth @Botric</h1>
+<h1 align="left">I'm Priyanshu, an SDE @Iotric & Head of Growth @Botric</h1>
 
 ###
 
